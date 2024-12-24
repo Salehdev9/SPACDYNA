@@ -16,7 +16,7 @@
   }
 
   #name-input{
-    width: 250px;
+    width: 220px;
   }
 
   #message-us{
@@ -26,11 +26,11 @@
   }
 
   .message-us-left-section{
-    margin-top: 100px;
+    margin-top: 240px;
   }
 
   .message-us-right-section{
-    margin-right: 100px;
+    margin-right: 250px;
   }
 }
 
