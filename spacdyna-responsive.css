@@ -674,7 +674,7 @@
 
   #spac,
   #dyna{
-    font-size: 80px !important;
+    font-size: 90px !important;
     border: 2px solid black; 
   }
 
@@ -703,7 +703,7 @@
   #home{
     position: relative;
     /* border: 2px solid red; */
-    width: 2500px;
+    width: 2300px;
     margin-left: 300px;
     margin-bottom: 600px;
     padding-top: 4000px !important;
@@ -712,8 +712,8 @@
   .first-hero-img{
     position: absolute;
     bottom: 0;
-    left: 50px;
-    transform: scale(2.3);
+    left: 45px;
+    transform: scale(2.2);
   }
 
   .first-hero-message-container{
@@ -733,21 +733,21 @@
   }
 
   #we-make-digital{
-    font-size: 103px;
+    font-size: 90px;
     /* border: 2px solid red; */
-    width: 800px;
+    width: 700px;
     line-height: 1.5 !important;
   }
 
   .lead{
-    font-size: 32px;
+    font-size: 42px;
     line-height: 1.5;
     position: relative;
-    left: 100px;
+    left: 90px;
   }
 
   .input-group{
-    width: 800px !important;
+    width: 600px !important;
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 80px;
@@ -760,13 +760,13 @@
 
   #button-addon2{
     position: relative;
-    left: 270px;
+    left: 220px;
     font-size: 30px;
   }
 
   #about-us{
     /* border: 2px solid red; */
-    width: 1400px;
+    width: 1000px;
     background-image: none;
     padding-bottom: 500px;
   }
@@ -783,8 +783,8 @@
     margin-bottom: 400px !important;
     margin-left: 750px;
     border-radius: 25px;
-    width: 800px;
-    transform: scale(1.8);
+    width: 600px;
+    transform: scale(1.7);
   }
 
   .features img{
@@ -807,7 +807,7 @@
   .girl-img{
     /* border: 2px solid red; */
     position: relative;
-    top: 480vh;
+    top: 430vh;
     width: 1200px;
     left: 200px;
     z-index: -1;
@@ -815,11 +815,11 @@
 
   #services{
     /* border: 2px solid red; */
-    transform: scale(1.9);
+    transform: scale(1.8);
     margin-bottom: 500px;
     margin-top: 1400px;
     margin-left: 430px;
-    width: 800px;
+    width: 600px;
   }
 
   #grow-web{
@@ -844,7 +844,7 @@
 
   #range-pic{
     /* border: 2px solid red; */
-    transform: scale(1.4);
+    transform: scale(1.2);
     margin-left: 70px;
     margin-top: 90px;
   }
@@ -863,11 +863,12 @@
   }
 
   .hero4-h5{
-    font-size: 73px !important;
+    font-size: 83px !important;
+    margin-left: -10px;
   }
 
   .cards-container{
-    margin-left: -180px !important;
+    margin-left: -140px !important;
     display: grid;
     /* gap: 50px; */
     row-gap: 250px;
@@ -905,6 +906,7 @@
   #news-first-h5{
     text-align: center;
     font-size: 105px !important;
+    margin-left: -20px;
     /* margin-bottom: 200px; */
   }
 
@@ -914,7 +916,7 @@
   }
 
   .news-img-container img{
-    transform: scale(2.3);
+    transform: scale(2.1);
     border-radius: 20px !important;
   }
   
@@ -923,7 +925,7 @@
     margin-top: 200px;
     margin-bottom: 100px;
     margin-left: -28px;
-    width: 1500px;
+    width: 1300px;
     padding: 70px;
     padding-bottom: 350px;
   }
@@ -975,7 +977,7 @@
   }
 
   .img-in-article{
-    transform: scale(2.1);
+    transform: scale(1.9);
     position: relative;
     top: 250px;
     margin-left: 280px;
@@ -1006,7 +1008,7 @@
     position: relative;
     left: -400px;
     bottom: -500px;
-    transform: scale(2);
+    transform: scale(1.9);
   }
 
   .article-text-section{
@@ -1042,14 +1044,14 @@
     /* border: 2px solid red; */
     font-size: 60px;
     text-align: left;
-    width: 1400px;
+    width: 1200px;
     margin-left: -100px;
     margin-top: 70px !important;
   }
 
   #message-us{
     /* border: 2px solid blue; */
-    width: 1700px !important;
+    width: 1600px !important;
     background-size: 1720px 3700px;
     height: 3700px;
     margin-top: -200px;
