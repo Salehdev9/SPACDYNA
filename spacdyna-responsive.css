@@ -675,6 +675,7 @@
   #spac,
   #dyna{
     font-size: 80px !important;
+    border: 2px solid black; 
   }
 
   .navbar-toggler{
@@ -1129,6 +1130,7 @@
   #spac,
   #dyna{
     font-size: 110px !important;
+    border: 2px solid blue;
   }
 
   .navbar-toggler{
@@ -1592,6 +1594,7 @@
   #spac,
   #dyna{
     font-size: 110px !important;
+    border: 2px solid red;
   }
 
   .navbar-toggler{
