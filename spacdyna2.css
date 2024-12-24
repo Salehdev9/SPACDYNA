@@ -1,3 +1,7 @@
+body{
+  overflow-x: hidden;  
+}
+
 .navbar{
   padding: 10px 0;
   position: fixed !important;
