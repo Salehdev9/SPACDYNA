@@ -873,7 +873,7 @@
   }
 
   .cards-container{
-    margin-left: -200px !important;
+    margin-left: -250px !important;
     display: grid;
     /* gap: 50px; */
     row-gap: 250px;
@@ -970,7 +970,7 @@
   .first-news-article{
     /* border: 5px solid blue; */
     margin-bottom: 2000px;
-    margin-left: 700px;
+    margin-left: 500px;
   }
 
   #calendar-icon{
