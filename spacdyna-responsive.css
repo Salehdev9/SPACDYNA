@@ -679,7 +679,6 @@
   #spac,
   #dyna{
     font-size: 90px !important;
-    border: 2px solid black; 
   }
 
   .navbar-toggler{
@@ -970,7 +969,7 @@
   .first-news-article{
     /* border: 5px solid blue; */
     margin-bottom: 2000px;
-    margin-left: 520px;
+    margin-left: 480px;
   }
 
   #calendar-icon{
