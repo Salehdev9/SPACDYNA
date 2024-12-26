@@ -873,7 +873,7 @@
   }
 
   .cards-container{
-    margin-left: -400px !important;
+    margin-left: -300px !important;
     display: grid;
     /* gap: 50px; */
     row-gap: 250px;
@@ -894,7 +894,7 @@
     margin-top: -200px;
     position: relative;
     /* margin-bottom: 2000px; */
-    margin-left: 150px;
+    margin-left: 75px;
     width: 1350px;
   }
 
@@ -1093,7 +1093,7 @@
 
   .message-us-right-section{
     margin-top: 100px;
-    margin-left: 200px;
+    margin-left: 100px;
   }
 
   form{
