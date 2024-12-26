@@ -873,7 +873,7 @@
   }
 
   .cards-container{
-    margin-left: -300px !important;
+    margin-left: -200px !important;
     display: grid;
     /* gap: 50px; */
     row-gap: 250px;
@@ -970,7 +970,7 @@
   .first-news-article{
     /* border: 5px solid blue; */
     margin-bottom: 2000px;
-    margin-left: 400px;
+    margin-left: 700px;
   }
 
   #calendar-icon{
@@ -1093,7 +1093,7 @@
 
   .message-us-right-section{
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 150px;
   }
 
   form{
