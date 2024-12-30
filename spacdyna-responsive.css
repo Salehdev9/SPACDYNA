@@ -310,7 +310,7 @@
     padding: 15px 25px;
     position: relative;
     right: 350px;
-    transform: scale(1.4);
+    transform: scale(1.5);
   }
 
   #navbarNav{
@@ -325,7 +325,7 @@
   #home{
     position: relative;
     border: 2px solid red;
-    width: 2500px;
+    width: 1500px;
     margin-left: 400px;
     margin-bottom: 600px;
     padding-top: 2200px !important;
@@ -348,20 +348,20 @@
   }
 
   .welcome-message{
-    font-size: 17px !important;
+    font-size: 37px !important;
   }
 
   #we-make-digital{
-    font-size: 45px;
+    font-size: 65px;
     line-height: 1.5 !important;
   }
 
   .lead{
-    font-size: 17px;
+    font-size: 37px;
   }
 
   .input-group{
-    width: 550px !important;
+    width: 650px !important;
   }
 
   #button-addon2{
@@ -1131,11 +1131,7 @@
   }
 }
 
-@media screen and (min-width: 321px) and (max-width: 376px){
- *{
-   border: 2px solid red;
- }
-  
+@media screen and (min-width: 321px) and (max-width: 376px){  
   body{
     overflow-x: hidden;
   }
