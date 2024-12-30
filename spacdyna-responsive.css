@@ -299,21 +299,18 @@
 }
 
 @media screen and (min-width: 426px) and (max-width: 768px){
-  *{
-    border: 2px solid red;
-  }
-  
+
   #spac,
   #dyna{
-    font-size: 50px;
+    font-size: 100px;
   }
   
   .navbar-toggler{
     border: 3px solid black;
     padding: 15px 25px;
     position: relative;
-    right: 150px;
-    transform: scale(1.2);
+    right: 350px;
+    transform: scale(1.4);
   }
 
   #navbarNav{
@@ -322,12 +319,12 @@
   }
 
   #navbarNav li{
-    font-size: 30px;
+    font-size: 50px;
   }
 
   #home{
     position: relative;
-    /* border: 2px solid red; */
+    border: 2px solid red;
     width: 2500px;
     margin-left: 400px;
     margin-bottom: 600px;
@@ -342,7 +339,7 @@
   }
 
   .first-hero-message-container{
-    /* border: 2px solid red; */
+    border: 2px solid red;
     position: absolute;
     top: 500px;
     left: 0;
@@ -373,7 +370,7 @@
   }
 
   #about-us{
-    /* border: 2px solid red; */
+    border: 2px solid red;
     width: 1400px;
     background-image: none;
     padding-bottom: 500px;
@@ -474,7 +471,7 @@
   }
 
   #blog{
-    /* border: 2px solid red !important; */
+    border: 2px solid red !important;
     margin-top: -200px;
     position: relative;
     /* margin-bottom: 2000px; */
@@ -488,7 +485,7 @@
   .news-right-section{
     position: relative;
     top: -130px !important;
-    /* border: 2px solid red; */
+    border: 2px solid red;
   }
 
   #news-first-h5{
@@ -507,7 +504,7 @@
   }
   
   .seo-digital-marketing-section{
-    /* border: 2px solid red; */
+    border: 2px solid red;
     margin-top: 200px;
     margin-bottom: 100px;
     margin-left: -1px;
@@ -536,7 +533,7 @@
   }
 
   .first-news-article{
-    /* border: 5px solid blue; */
+    border: 5px solid blue;
     margin-bottom: 200px;
   }
 
@@ -569,19 +566,19 @@
   }
 
   .news-articles-section{
-    /* border: 2px solid red; */
+    border: 2px solid red;
   }
 
   #img-in-article-container,
   #img-in-article-container2,
   #img-in-article-container3{
-    /* border: 2px solid blue; */
+    border: 2px solid blue;
     position: relative;
     right: -500px;
   }
 
   .article-text-section{
-    /* border: 2px solid yellow; */
+    border: 2px solid yellow;
     position: relative;
     top: -400px;
     left: -300px;
@@ -608,7 +605,7 @@
   }
 
   #message-us{
-    /* border: 2px solid blue; */
+    border: 2px solid blue;
     width: 1400px;
     background-size: 1400px 1800px;
     height: 1800px;
@@ -616,7 +613,7 @@
 
   .left-right-container{
     flex-direction: column;
-    /* border: 4px solid red; */
+    border: 4px solid red;
     width: 90%;
     margin-left: 30px;
   }
@@ -643,7 +640,7 @@
   }
 
   form{
-    /* border: 2px solid blue; */
+    border: 2px solid blue;
     transform: scale(1.1);
   }
 
@@ -652,7 +649,7 @@
   }
 
   .message-us-right-section{
-    /* border: 2px solid blue; */
+    border: 2px solid blue;
     width: 1300px;
     padding: 150px 120px;
   }
