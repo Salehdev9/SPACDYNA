@@ -673,6 +673,10 @@
 }
 
 @media screen and (min-width: 376px) and (max-width: 426px){
+  *{
+    border: 2px solid red;
+  }
+  
   body{
     overflow-x: hidden;
   }
